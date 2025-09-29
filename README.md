@@ -1,3 +1,4 @@
+
 # eCourts Automation
 
 Automates extraction of case details from the **eCourts India portal** using Python, Selenium, and OCR.  
