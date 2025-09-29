@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment folders
+env/
+venv/
+.venv/
+
+# Ignore Excel input/output files
+*.xlsx
+output/
+
+# Ignore ChromeDriver (local binary)
+chromedriver.exe
+chromedriver
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs if any
+*.log
